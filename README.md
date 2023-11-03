@@ -18,3 +18,7 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 ## 🎨 Style
 
 Feel free to reach out to me for collaboration, questions, or just a friendly chat. Let's build the future together! 🚀
+
+<p align="center">
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaGiTX786&show_icons=true&theme=dark&layout=compact" alt="HamzaGiTX786" />
+</p>

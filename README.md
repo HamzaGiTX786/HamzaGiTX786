@@ -5,8 +5,16 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 
 ## 💼 Skills and Interests
 
-- 💻 Programming Languages: Java, Python, HTML, CSS, PHP, JavaScript
-- ⚙️ Frameworks: React, React Native
+- 💻 Programming Languages: 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ⚙️ Frameworks: 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - 🌐 Web Development
 - 📱 Mobile App Development
 - 🔍 Problem Solving

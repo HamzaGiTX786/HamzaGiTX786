@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @HamzaGiTX786 or Hamza
-- 👀 I’m interested in Web Development, helping others learn programming
-- 🌱 I’m currently learning TypeScript, NoSQL and many other languages
-- 📫 How to reach me, email me at attarwalahamza@gmail.com
+# Hello, I'm Hamza Attarwala! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hamza-attarwala-53245a198/)
 
-<!---
-HamzaGiTX786/HamzaGiTX786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaScript, and frameworks like React. Passionate about creating innovative solutions and crafting beautiful user experiences.
+
+## 💼 Skills and Interests
+
+- 💻 Programming Languages: Java, Python, HTML, CSS, PHP, JavaScript
+- ⚙️ Frameworks: React
+- 🌐 Web Development
+- 🔍 Problem Solving
+
+## 📬 Get in Touch
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/hamza-attarwala-53245a198/)
+
+## 🎨 Style
+
+I've designed this README to be user-friendly and attractive, with a clean and professional look.
+
+Feel free to reach out to me for collaboration, questions, or just a friendly chat. Let's build the future together! 🚀

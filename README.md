@@ -16,6 +16,4 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 
 ## 🎨 Style
 
-I've designed this README to be user-friendly and attractive, with a clean and professional look.
-
 Feel free to reach out to me for collaboration, questions, or just a friendly chat. Let's build the future together! 🚀

@@ -6,8 +6,9 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 ## 💼 Skills and Interests
 
 - 💻 Programming Languages: Java, Python, HTML, CSS, PHP, JavaScript
-- ⚙️ Frameworks: React
+- ⚙️ Frameworks: React, React Native
 - 🌐 Web Development
+- 📱 Mobile App Development
 - 🔍 Problem Solving
 
 ## 📬 Get in Touch

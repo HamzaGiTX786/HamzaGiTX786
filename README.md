@@ -24,7 +24,7 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 - ✉️ Email: <a href="mailto:attarwalahamza@gmail.com">attarwalahamza@gmail.com</a>
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/hamza-attarwala-53245a198/)
 
-## 🎨 Style
+## 🤝 Collaboration
 
 Feel free to reach out to me for collaboration, questions, or just a friendly chat. Let's build the future together! 🚀
 

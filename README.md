@@ -16,7 +16,7 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 - 🌐 Web Development
 - 📱 Mobile App Development

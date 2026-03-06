@@ -1,7 +1,7 @@
 # Hello, I'm Hamza Attarwala! 👋
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hamza-attarwala-53245a198/)
 
-I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaScript, and frameworks like React. Passionate about creating innovative solutions and crafting beautiful user experiences.
+I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, Vanilla JavaScript, and frameworks like React, Django, and Flask. Passionate about creating innovative solutions and crafting beautiful user experiences.
 
 ## 💼 Skills and Interests
 

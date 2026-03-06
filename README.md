@@ -32,8 +32,8 @@ I'm a versatile programmer with expertise in Java, Python, HTML, CSS, PHP, JavaS
 Feel free to reach out to me for collaboration, questions, or just a friendly chat. Let's build the future together! 🚀
 
 ## My GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaGiTX786&show_icons=true&theme=dark&layout=compact" alt="HamzaGiTX786" />
-</p>
+</p> -->
 
 ![HamzaGiTX786 GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=HamzaGiTX786&gitlabUsername=HamzaGiTX786)
